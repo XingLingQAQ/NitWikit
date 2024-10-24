@@ -78,8 +78,8 @@ sidebar_position: 5
 
 然后前往[NitWikit-Domain申请](https://github.com/lilingfengdev/NitWikit-Domain/issues/new?assignees=&labels=request&projects=&template=request.yml&title=%5B%E7%94%B3%E8%AF%B7%5D%3A+),请确保你需要的子域名满足以下条件
 
-* 只有数字和字母
-* 没被别人用
+- 只有数字和字母
+- 没被别人用
 
 然后静待机器人回复
 
@@ -123,20 +123,20 @@ mcping <服务器地址>
 
 ### `帮助`
 
-返回 https://yizhan.wiki/NitWikit/services/
+返回 https://nitwikit.yizhan.wiki/services/
 
 ### `正确提问`
 
-返回消息 https://yizhan.wiki/NitWikit/start/%E5%90%91%E5%A4%A7%E4%BD%AC%E6%B1%82%E5%8A%A9
+返回消息 https://nitwikit.yizhan.wiki/start/%E5%90%91%E5%A4%A7%E4%BD%AC%E6%B1%82%E5%8A%A9
 
 ### `搜索`
 
-返回消息 https://yizhan.wiki/NitWikit/search?q=
+返回消息 https://nitwikit.yizhan.wiki/search?q=
 
 ### `核心`
 
 返回消息
 
-📦 单端 https://yizhan.wiki/NitWikit/Java/start/server-core-choose
+📦 单端 https://nitwikit.yizhan.wiki/Java/start/server-core-choose
 
-📦 跨服端 https://yizhan.wiki/NitWikit/Java/advance/cross-server/server-core-choose
+📦 跨服端 https://nitwikit.yizhan.wiki/Java/advance/cross-server/server-core-choose
